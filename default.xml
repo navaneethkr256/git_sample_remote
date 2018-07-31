@@ -2,4 +2,5 @@
 <manifest>
   <remote name="origin" fetch="ssh://git@github.com/" />
   <default revision="master" remote="origin" />
+  <project path="vendor/" name="vendor/" revision="master" />
 </manifest>
