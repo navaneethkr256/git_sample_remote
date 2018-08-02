@@ -2,4 +2,4 @@ Branch 1 file
 First Line
 Second Line
 Third Line for all branches
-second temporary edits on file 1
+Ready to merge to local master
