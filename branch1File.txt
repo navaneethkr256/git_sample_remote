@@ -3,3 +3,4 @@ First Line
 Second Line
 Third Line for all branches
 Ready to merge to local master
+A new direct entry to master
