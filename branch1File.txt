@@ -1,4 +1,5 @@
 Branch 1 file
+Remote entry 1
 First Line
 Second Line
 Third Line for all branches
