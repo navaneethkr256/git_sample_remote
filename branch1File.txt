@@ -1,0 +1,5 @@
+Branch 1 file
+First Line
+Second Line
+Third Line for all branches
+Ready to merge to local master
