@@ -6,3 +6,7 @@ Third Line for all branches
 Ready to merge to local master
 A new direct entry to master
 An important entry for branch1
+Detached head commit 1
+
+Detached HEAD commit 2
+Detached HEAD commit 3
